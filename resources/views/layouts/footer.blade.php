@@ -1,3 +1,0 @@
-<div>
-  made by ...
-</div>
