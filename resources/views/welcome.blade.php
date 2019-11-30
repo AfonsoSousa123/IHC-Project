@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 
 <html lang="zxx" class="no-js">
-<head>
-    <!-- Mobile Specific Meta -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Favicon-->
-    <link rel="shortcut icon" href="img/fav.png">
-    <!-- Author Meta -->
-    <meta name="author" content="colorlib">
-    <!-- Meta Description -->
-    <meta name="description" content="">
-    <!-- Meta Keyword -->
-    <meta name="keywords" content="">
-    <!-- meta character set -->
-    <meta charset="UTF-8">
-    <!-- Site Title -->
-    <title>Universidade da Madeira</title>
+    <head>
+        <!-- Mobile Specific Meta -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!-- Favicon-->
+        <link rel="shortcut icon" href="img/fav.png">
+        <!-- Author Meta -->
+        <meta name="author" content="colorlib">
+        <!-- Meta Description -->
+        <meta name="description" content="">
+        <!-- Meta Keyword -->
+        <meta name="keywords" content="">
+        <!-- meta character set -->
+        <meta charset="UTF-8">
+        <!-- Site Title -->
+        <title>Universidade da Madeira</title>
 
-    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
         <!--
         CSS
         ============================================= -->
@@ -31,6 +31,7 @@
         <link rel="stylesheet" href="css/jquery-ui.css">			
         <link rel="stylesheet" href="css/main.css">
     </head>
+
     <body>	
       <header id="header" id="home">
           
@@ -65,311 +66,100 @@
                 <div class="row fullscreen d-flex align-items-center justify-content-between">
                     <div class="banner-content col-lg-9 col-md-12">
                         <h1 class="text-uppercase">
-                            We Ensure better education
-                            for a better world			
+                            CTESP EM TECNOLOGIAS E PROGRAMAÇÃO 
+                            DE SISTEMAS DE INFORMAÇÃO		
                         </h1>
-                        <p class="pt-10 pb-10">
-                            In the history of modern astronomy, there is probably no one greater leap forward than the building and launch of the space telescope known as the Hubble.
-                        </p>
-                        <a href="#" class="primary-btn text-uppercase">Get Started</a>
+                        <br>
+                        <a href="#more" class="primary-btn text-uppercase">Saiba Mais</a>
                     </div>										
                 </div>
             </div>					
         </section>
         <!-- End banner Area -->
-
-        <!-- Start feature Area -->
-        <section class="feature-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="single-feature">
-                            <div class="title">
-                                <h4>Learn Online Courses</h4>
-                            </div>
-                            <div class="desc-wrap">
-                                <p>
-                                    Usage of the Internet is becoming more common due to rapid advancement
-                                    of technology.
-                                </p>
-                                <a href="#">Join Now</a>									
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="single-feature">
-                            <div class="title">
-                                <h4>No.1 of universities</h4>
-                            </div>
-                            <div class="desc-wrap">
-                                <p>
-                                    For many of us, our very first experience of learning about the celestial bodies begins when we saw our first.
-                                </p>
-                                <a href="#">Join Now</a>									
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="single-feature">
-                            <div class="title">
-                                <h4>Huge Library</h4>
-                            </div>
-                            <div class="desc-wrap">
-                                <p>
-                                    If you are a serious astronomy fanatic like a lot of us are, you can probably remember that one event.
-                                </p>
-                                <a href="#">Join Now</a>									
-                            </div>
-                        </div>
-                    </div>												
-                </div>
-            </div>	
-        </section>
-        <!-- End feature Area -->
                 
-        <!-- Start popular-course Area -->
-        <section class="popular-course-area section-gap">
+        <!-- Start info Area -->
+        <section class="info-area pt-120 pb-120" id="more">
             <div class="container">
-                <div class="row d-flex justify-content-center">
-                    <div class="menu-content pb-70 col-lg-8">
-                        <div class="title text-center">
-                            <h1 class="mb-10">Popular Courses we offer</h1>
-                            <p>There is a moment in the life of any aspiring.</p>
-                        </div>
+                <div class="row align-items-center">
+                    <div class="col-lg-8 justify-content-center">
+                        <h1>TECNOLOGIAS E PROGRAMAÇÃO DE SISTEMAS DE INFORMAÇÃO</h1>
+                        <hr class="custom">
+                        <br>
+                        <p style="font-size:15px;">
+                            O técnico superior profissional em Tecnologias e Programação de Sistemas de Informação será capaz,
+                            de forma autónoma ou integrado numa equipa, de planear, implementar e proceder à manutenção de software 
+                            aplicacional orientado para o contexto web, distribuído ou móvel, bem como conceber e otimizar Sistemas de 
+                            Informação em contextos diversificados, com capacidade de adaptação às tecnologias emergentes.
+                        </p>
+                        <br>
+                        <p style="font-size:15px;">
+                            O curso está estruturado em quatro (4) semestres letivos compostos dezasseis (16) unidades curriculares. 
+                            Destas, três (3) são de formação geral e científica que correspondem a dezoito créditos ECTS, doze (12) de formação 
+                            técnica que correspondem a setenta e dois (72) créditos ECTS, e uma (1) de formação em contexto de trabalho que 
+                            corresponde a trinta créditos ECTS.
+                        </p>
                     </div>
-                </div>						
-                <div class="row">
-                    <div class="active-popular-carusel">
-                        <div class="single-popular-carusel">
-                            <div class="thumb-wrap relative">
-                                <div class="thumb relative">
-                                    <div class="overlay overlay-bg"></div>	
-                                    <img class="img-fluid" src="img/p1.jpg" alt="">
-                                </div>
-                                <div class="meta d-flex justify-content-between">
-                                    <p><span class="lnr lnr-users"></span> 355 <span class="lnr lnr-bubble"></span>35</p>
-                                    <h4>$150</h4>
-                                </div>									
-                            </div>
-                            <div class="details">
-                                <a href="#">
-                                    <h4>
-                                        Learn Designing
-                                    </h4>
-                                </a>
-                                <p>
-                                    When television was young, there was a hugely popular show based on the still popular fictional characte										
-                                </p>
-                            </div>
-                        </div>	
-                        <div class="single-popular-carusel">
-                            <div class="thumb-wrap relative">
-                                <div class="thumb relative">
-                                    <div class="overlay overlay-bg"></div>	
-                                    <img class="img-fluid" src="img/p2.jpg" alt="">
-                                </div>
-                                <div class="meta d-flex justify-content-between">
-                                    <p><span class="lnr lnr-users"></span> 355 <span class="lnr lnr-bubble"></span>35</p>
-                                    <h4>$150</h4>
-                                </div>									
-                            </div>
-                            <div class="details">
-                                <a href="#">
-                                    <h4>
-                                        Learn React js beginners
-                                    </h4>
-                                </a>
-                                <p>
-                                    When television was young, there was a hugely popular show based on the still popular fictional characte										
-                                </p>
-                            </div>
-                        </div>	
-                        <div class="single-popular-carusel">
-                            <div class="thumb-wrap relative">
-                                <div class="thumb relative">
-                                    <div class="overlay overlay-bg"></div>	
-                                    <img class="img-fluid" src="img/p3.jpg" alt="">
-                                </div>
-                                <div class="meta d-flex justify-content-between">
-                                    <p><span class="lnr lnr-users"></span> 355 <span class="lnr lnr-bubble"></span>35</p>
-                                    <h4>$150</h4>
-                                </div>									
-                            </div>
-                            <div class="details">
-                                <a href="#">
-                                    <h4>
-                                        Learn Photography
-                                    </h4>
-                                </a>
-                                <p>
-                                    When television was young, there was a hugely popular show based on the still popular fictional characte										
-                                </p>
-                            </div>
-                        </div>	
-                        <div class="single-popular-carusel">
-                            <div class="thumb-wrap relative">
-                                <div class="thumb relative">
-                                    <div class="overlay overlay-bg"></div>	
-                                    <img class="img-fluid" src="img/p4.jpg" alt="">
-                                </div>
-                                <div class="meta d-flex justify-content-between">
-                                    <p><span class="lnr lnr-users"></span> 355 <span class="lnr lnr-bubble"></span>35</p>
-                                    <h4>$150</h4>
-                                </div>									
-                            </div>
-                            <div class="details">
-                                <a href="#">
-                                    <h4>
-                                        Learn Surveying
-                                    </h4>
-                                </a>
-                                <p>
-                                    When television was young, there was a hugely popular show based on the still popular fictional characte										
-                                </p>
-                            </div>
+
+                    <div class="col-lg-4 info-area-right">
+                        <a href="/director" class="genric-btn primary radius mb-30">DIRETOR DE CURSO</a>
+                        <br>
+
+                        <div class="single-defination">
+                            <h4 class="mb-10">CÓDIGO DGES:</h4>
+                            <p>1321 / T024 (INSTITUIÇÃO/CURSO)</p>
                         </div>
-                        <div class="single-popular-carusel">
-                            <div class="thumb-wrap relative">
-                                <div class="thumb relative">
-                                    <div class="overlay overlay-bg"></div>	
-                                    <img class="img-fluid" src="img/p1.jpg" alt="">
-                                </div>
-                                <div class="meta d-flex justify-content-between">
-                                    <p><span class="lnr lnr-users"></span> 355 <span class="lnr lnr-bubble"></span>35</p>
-                                    <h4>$150</h4>
-                                </div>									
-                            </div>
-                            <div class="details">
-                                <a href="#">
-                                    <h4>
-                                        Learn Designing
-                                    </h4>
-                                </a>
-                                <p>
-                                    When television was young, there was a hugely popular show based on the still popular fictional characte										
-                                </p>
-                            </div>
-                        </div>	
-                        <div class="single-popular-carusel">
-                            <div class="thumb-wrap relative">
-                                <div class="thumb relative">
-                                    <div class="overlay overlay-bg"></div>	
-                                    <img class="img-fluid" src="img/p2.jpg" alt="">
-                                </div>
-                                <div class="meta d-flex justify-content-between">
-                                    <p><span class="lnr lnr-users"></span> 355 <span class="lnr lnr-bubble"></span>35</p>
-                                    <h4>$150</h4>
-                                </div>									
-                            </div>
-                            <div class="details">
-                                <a href="#">
-                                    <h4>
-                                        Learn React js beginners
-                                    </h4>
-                                </a>
-                                <p>
-                                    When television was young, there was a hugely popular show based on the still popular fictional characte										
-                                </p>
-                            </div>
-                        </div>	
-                        <div class="single-popular-carusel">
-                            <div class="thumb-wrap relative">
-                                <div class="thumb relative">
-                                    <div class="overlay overlay-bg"></div>	
-                                    <img class="img-fluid" src="img/p3.jpg" alt="">
-                                </div>
-                                <div class="meta d-flex justify-content-between">
-                                    <p><span class="lnr lnr-users"></span> 355 <span class="lnr lnr-bubble"></span>35</p>
-                                    <h4>$150</h4>
-                                </div>									
-                            </div>
-                            <div class="details">
-                                <a href="#">
-                                    <h4>
-                                        Learn Photography
-                                    </h4>
-                                </a>
-                                <p>
-                                    When television was young, there was a hugely popular show based on the still popular fictional characte										
-                                </p>
-                            </div>
-                        </div>	
-                        <div class="single-popular-carusel">
-                            <div class="thumb-wrap relative">
-                                <div class="thumb relative">
-                                    <div class="overlay overlay-bg"></div>	
-                                    <img class="img-fluid" src="img/p4.jpg" alt="">
-                                </div>
-                                <div class="meta d-flex justify-content-between">
-                                    <p><span class="lnr lnr-users"></span> 355 <span class="lnr lnr-bubble"></span>35</p>
-                                    <h4>$150</h4>
-                                </div>									
-                            </div>
-                            <div class="details">
-                                <a href="#">
-                                    <h4>
-                                        Learn Surveying
-                                    </h4>
-                                </a>
-                                <p>
-                                    When television was young, there was a hugely popular show based on the still popular fictional characte										
-                                </p>
-                            </div>
-                        </div>							
+                        <br>
+                        <div class="single-defination">
+                            <h4 class="mb-10">REGISTO DGES:</h4>
+                            <p>AEF 481 R/CR 5/2017</p>
+                        </div>
+                        <br>
+                        <div class="single-defination">
+                            <h4 class="mb-10">DURAÇÃO DO CURSO:</h4>
+                            <p>4 SEMESTRES / 2 ANOS</p>
+                        </div>
+                        <br>
+                        <div class="single-defination">
+                            <h4 class="mb-10">NÚMERO DE VAGAS:</h4>
+                            <p>NÃO DISPONÍVEL</p>
+                        </div>
                     </div>
                 </div>
             </div>	
         </section>
-        <!-- End popular-course Area -->
-        
+        <!-- End info Area -->
+    
 
         <!-- Start search-course Area -->
         <section class="search-course-area relative">
             <div class="overlay overlay-bg"></div>
             <div class="container">
-                <div class="row justify-content-between align-items-center">
+                <div class="row justify-content-between align-items-center p-5">
                     <div class="col-lg-6 col-md-6 search-course-left">
                         <h1 class="text-white">
-                            Get reduced fee <br>
-                            during this Summer!
+                            SAÍDAS PROFISSIONAIS
                         </h1>
-                        <p>
-                            inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the workplace. That’s why it’s crucial that, as women, our behavior on the job is beyond reproach.
+                        <hr class="custom">
+                        <br>
+                        <p class="text-white" style="font-size:15px;">
+                            O Técnico Superior Profissional em Tecnologias e Programação de Sistemas de Informação prepara técnicos 
+                            superiores com um perfil profissional de nível V, dando competências no planeamento, implementação e manutenção de 
+                            Sistemas de Informação. Permitirá desempenhar tarefas de desenvolvimento de aplicações cliente e servidor em ambiente web.
+                            O titular de um diploma de técnico superior profissional pode ainda candidatar-se a uma licenciatura nos ensinos politécnico 
+                            e universitário no âmbito do concurso especial para os titulares destes diplomas.
                         </p>
-                        <div class="row details-content">
-                            <div class="col single-detials">
-                                <span class="lnr lnr-graduation-hat"></span>
-                                <a href="#"><h4>Expert Instructors</h4></a>		
-                                <p>
-                                    Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-                                </p>						
-                            </div>
-                            <div class="col single-detials">
-                                <span class="lnr lnr-license"></span>
-                                <a href="#"><h4>Certification</h4></a>		
-                                <p>
-                                    Usage of the Internet is becoming more common due to rapid advancement of technology and power.
-                                </p>						
-                            </div>								
-                        </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 search-course-right section-gap">
-                        <form class="form-wrap" action="#">
-                            <h4 class="text-white pb-20 text-center mb-30">Search for Available Course</h4>		
-                            <input type="text" class="form-control" name="name" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" >
-                            <input type="phone" class="form-control" name="phone" placeholder="Your Phone Number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Phone Number'" >
-                            <input type="email" class="form-control" name="email" placeholder="Your Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address'" >
-                            <div class="form-select" id="service-select">
-                                <select>
-                                    <option datd-display="">Choose Course</option>
-                                    <option value="1">Course One</option>
-                                    <option value="2">Course Two</option>
-                                    <option value="3">Course Three</option>
-                                    <option value="4">Course Four</option>
-                                </select>
-                            </div>									
-                            <button class="primary-btn text-uppercase">Submit</button>
-                        </form>
+                    <div class="col-lg-5 col-md-6 search-course-right section-gap">
+                        <h1 class="text-white">
+                            DESTINATÁRIOS
+                        </h1>
+                        <hr class="custom">
+                        <br>
+                        <p class="text-white" style="font-size:15px;">
+                            Alunos do ensino secundário dos cursos profissionais, especialmente para aqueles com áreas ou disciplinas
+                            de informática e/ou redes de computadores. Ainda, profissionais da área de informática com intenção em iniciar 
+                            uma carreira de programação de computadores e sistemas para a web.
+                        </p>
                     </div>
                 </div>
             </div>	
@@ -571,7 +361,6 @@
                             </p>
                         </div>
                         <div class="single-review item">
-                            <img src="img/r1.png" alt="">
                             <div class="title justify-content-start d-flex">
                                 <a href="#"><h4>Fannie Rowe</h4></a>
                                 <div class="star">
@@ -779,8 +568,8 @@
                 </div>
                 <div class="footer-bottom row align-items-center justify-content-between">
                     <p class="footer-text m-0 col-lg-6 col-md-12"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                     <div class="col-lg-6 col-sm-12 footer-social">
                         <a href="#"><i class="fa fa-facebook"></i></a>
                         <a href="#"><i class="fa fa-twitter"></i></a>
@@ -791,7 +580,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
             </div>
         </footer>	
         <!-- End footer Area -->	
-
 
         <script src="js/vendor/jquery-2.2.4.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -806,6 +594,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         <script src="js/jquery.nice-select.min.js"></script>	
         <script src="js/owl.carousel.min.js"></script>									
         <script src="js/mail-script.js"></script>	
-        <script src="js/main.js"></script>	
+        <script src="js/main.js"></script>
+        
+        <script>
+            
+        </script>
     </body>
 </html>
