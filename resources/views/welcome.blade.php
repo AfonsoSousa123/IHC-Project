@@ -166,120 +166,113 @@
         </section>
         <!-- End search-course Area -->
         
-    
-        <!-- Start upcoming-event Area -->
-        <section class="upcoming-event-area section-gap">
+        <!-- Start gallery Area -->
+		<section class="gallery-area section-gap">
             <div class="container">
-                <div class="row d-flex justify-content-center">
-                    <div class="menu-content pb-70 col-lg-8">
-                        <div class="title text-center">
-                            <h1 class="mb-10">Upcoming Events of our Institute</h1>
-                            <p>If you are a serious astronomy fanatic like a lot of us</p>
-                        </div>
+                    <div class="title justify-content-center d-flex pb-30">
+                        <h1>Galeria</h1>
                     </div>
-                </div>								
+                    <br>
+
                 <div class="row">
-                    <div class="active-upcoming-event-carusel">
-                        <div class="single-carusel row align-items-center">
-                            <div class="col-12 col-md-6 thumb">
-                                <img class="img-fluid" src="img/e1.jpg" alt="">
+                    <div class="col-lg-7">
+                        <a href="img/gallery/g1.jpg" class="img-gal">
+                            <div class="single-imgs relative">		
+                                <div class="overlay overlay-bg"></div>
+                                <div class="relative">				
+                                    <img class="img-fluid" src="img/gallery/g1.jpg" alt="">		
+                                </div>
                             </div>
-                            <div class="detials col-12 col-md-6">
-                                <p>25th February, 2018</p>
-                                <a href="#"><h4>The Universe Through
-                                A Child S Eyes</h4></a>
-                                <p>
-                                    For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-                                </p>
+                        </a>
+                    </div>
+                    <div class="col-lg-5">
+                        <a href="img/gallery/g2.jpg" class="img-gal">
+                            <div class="single-imgs relative">		
+                                <div class="overlay overlay-bg"></div>
+                                <div class="relative">				
+                                    <img class="img-fluid" src="img/gallery/g2.jpg" alt="">				
+                                </div>
                             </div>
-                        </div>
-                        <div class="single-carusel row align-items-center">
-                            <div class="col-12 col-md-6 thumb">
-                                <img class="img-fluid" src="img/e2.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="col-lg-4">
+                        <a href="img/gallery/g3.jpg" class="img-gal">
+                            <div class="single-imgs relative">		
+                                <div class="overlay overlay-bg"></div>
+                                <div class="relative">				
+                                    <img class="img-fluid" src="img/gallery/g3.jpg" alt="">				
+                                </div>
                             </div>
-                            <div class="detials col-12 col-md-6">
-                                <p>25th February, 2018</p>
-                                <a href="#"><h4>The Universe Through
-                                A Child S Eyes</h4></a>
-                                <p>
-                                    For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-                                </p>
+                        </a>
+                    </div>
+                    <div class="col-lg-4">
+                        <a href="img/gallery/g4.jpg" class="img-gal">
+                            <div class="single-imgs relative">		
+                                <div class="overlay overlay-bg"></div>
+                                <div class="relative">					
+                                    <img class="img-fluid" src="img/gallery/g4.jpg" alt="">				
+                                </div>
                             </div>
-                        </div>	
-                        <div class="single-carusel row align-items-center">
-                            <div class="col-12 col-md-6 thumb">
-                                <img class="img-fluid" src="img/e1.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="col-lg-4">
+                        <a href="img/gallery/g5.jpg"  class="img-gal">
+                            <div class="single-imgs relative">		
+                                <div class="overlay overlay-bg"></div>
+                                <div class="relative">					
+                                    <img class="img-fluid" src="img/gallery/g5.jpg" alt="">				
+                                </div>
                             </div>
-                            <div class="detials col-12 col-md-6">
-                                <p>25th February, 2018</p>
-                                <a href="#"><h4>The Universe Through
-                                A Child S Eyes</h4></a>
-                                <p>
-                                    For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-                                </p>
+                        </a>
+                    </div>
+                    <div class="col-lg-5">
+                        <a href="img/gallery/g6.jpg" class="img-gal">
+                            <div class="single-imgs relative">		
+                                <div class="overlay overlay-bg"></div>
+                                <div class="relative">				
+                                    <img class="img-fluid" src="img/gallery/g6.jpg" alt="">				
+                                </div>
                             </div>
-                        </div>	
-                        <div class="single-carusel row align-items-center">
-                            <div class="col-12 col-md-6 thumb">
-                                <img class="img-fluid" src="img/e1.jpg" alt="">
+                            </a>
+                    </div>
+                    <div class="col-lg-7">
+                        <a href="img/gallery/g7.jpg" class="img-gal">
+                            <div class="single-imgs relative">		
+                                <div class="overlay overlay-bg"></div>
+                                <div  class="relative">					
+                                    <img class="img-fluid" src="img/gallery/g7.jpg" alt="">				
+                                </div>
                             </div>
-                            <div class="detials col-12 col-md-6">
-                                <p>25th February, 2018</p>
-                                <a href="#"><h4>The Universe Through
-                                A Child S Eyes</h4></a>
-                                <p>
-                                    For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="single-carusel row align-items-center">
-                            <div class="col-12 col-md-6 thumb">
-                                <img class="img-fluid" src="img/e2.jpg" alt="">
-                            </div>
-                            <div class="detials col-12 col-md-6">
-                                <p>25th February, 2018</p>
-                                <a href="#"><h4>The Universe Through
-                                A Child S Eyes</h4></a>
-                                <p>
-                                    For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-                                </p>
-                            </div>
-                        </div>	
-                        <div class="single-carusel row align-items-center">
-                            <div class="col-12 col-md-6 thumb">
-                                <img class="img-fluid" src="img/e1.jpg" alt="">
-                            </div>
-                            <div class="detials col-12 col-md-6">
-                                <p>25th February, 2018</p>
-                                <a href="#"><h4>The Universe Through
-                                A Child S Eyes</h4></a>
-                                <p>
-                                    For most of us, the idea of astronomy is something we directly connect to “stargazing”, telescopes and seeing magnificent displays in the heavens.
-                                </p>
-                            </div>
-                        </div>																						
+                        </a>
                     </div>
                 </div>
             </div>	
         </section>
-        <!-- End upcoming-event Area -->
+        <!-- End gallery Area -->
                     
         <!-- Start review Area -->
-        <section class="review-area section-gap relative">
+        <section class="review-area section-gap relative" style="padding-top:100px">
             <div class="overlay overlay-bg"></div>
-            <div class="container">				
+            <div class="container">	
+                <div class="title justify-content-center d-flex ">
+                    <h1>Reviews do Curso</h1>
+                </div>
+                <br>
+                
                 <div class="row">
                     <div class="active-review-carusel">
                         <div class="single-review item">
                             <div class="title justify-content-start d-flex">
-                                <a href="#"><h4>Fannie Rowe</h4></a>
-                                <div class="star">
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </div>
+                                <a href="#"><h4>Arminda Maria</h4></a>
+                            </div>
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit veniam totam autem nemo, suscipit a nostrum expedita voluptatibus sunt nesciunt earum quibusdam voluptatum. Commodi eius recusandae accusamus minima. Omnis, sit?
+                            </p>
+                        </div>
+                        <div class="single-review item">
+                            <div class="title justify-content-start d-flex">
+                                <a href="#"><h4>Ambrósio Berbequim</h4></a>
+                                
                             </div>
                             <p>
                                 Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
@@ -287,14 +280,7 @@
                         </div>
                         <div class="single-review item">
                             <div class="title justify-content-start d-flex">
-                                <a href="#"><h4>Hulda Sutton</h4></a>
-                                <div class="star">
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </div>
+                                <a href="#"><h4>Felizberto Andrade</h4></a>
                             </div>
                             <p>
                                 Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
@@ -302,29 +288,7 @@
                         </div>
                         <div class="single-review item">
                             <div class="title justify-content-start d-flex">
-                                <a href="#"><h4>Fannie Rowe</h4></a>
-                                <div class="star">
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </div>
-                            </div>
-                            <p>
-                                Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
-                            </p>
-                        </div>
-                        <div class="single-review item">
-                            <div class="title justify-content-start d-flex">
-                                <a href="#"><h4>Hulda Sutton</h4></a>
-                                <div class="star">
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </div>
+                                <a href="#"><h4>Gervásio da Costa</h4></a>
                             </div>
                             <p>
                                 Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
@@ -332,14 +296,7 @@
                         </div>	
                         <div class="single-review item">
                             <div class="title justify-content-start d-flex">
-                                <a href="#"><h4>Fannie Rowe</h4></a>
-                                <div class="star">
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </div>
+                                <a href="#"><h4>Marcelo Rebelo de Sousa</h4></a>
                             </div>
                             <p>
                                 Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
@@ -347,14 +304,7 @@
                         </div>
                         <div class="single-review item">
                             <div class="title justify-content-start d-flex">
-                                <a href="#"><h4>Hulda Sutton</h4></a>
-                                <div class="star">
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </div>
+                                <a href="#"><h4>Paulo Guedes</h4></a>
                             </div>
                             <p>
                                 Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
@@ -362,14 +312,7 @@
                         </div>
                         <div class="single-review item">
                             <div class="title justify-content-start d-flex">
-                                <a href="#"><h4>Fannie Rowe</h4></a>
-                                <div class="star">
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </div>
+                                <a href="#"><h4>Emilia Fernandes</h4></a>
                             </div>
                             <p>
                                 Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
@@ -377,14 +320,7 @@
                         </div>
                         <div class="single-review item">
                             <div class="title justify-content-start d-flex">
-                                <a href="#"><h4>Hulda Sutton</h4></a>
-                                <div class="star">
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star checked"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </div>
+                                <a href="#"><h4>Jonny Macarrony</h4></a>
                             </div>
                             <p>
                                 Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
@@ -396,31 +332,13 @@
         </section>
         <!-- End review Area -->	
         
-        <!-- Start cta-one Area -->
-        <section class="cta-one-area relative section-gap">
-            <div class="container">
-                <div class="overlay overlay-bg"></div>
-                <div class="row justify-content-center">
-                    <div class="wrap">
-                        <h1 class="text-white">Become an instructor</h1>
-                        <p>
-                            There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope. It’s exciting to think about setting up your own viewing station whether that is on the deck.
-                        </p>
-                        <a class="primary-btn wh" href="#">Apply for the post</a>								
-                    </div>					
-                </div>
-            </div>	
-        </section>
-        <!-- End cta-one Area -->
-
         <!-- Start blog Area -->
         <section class="blog-area section-gap" id="blog">
             <div class="container">
                 <div class="row d-flex justify-content-center">
                     <div class="menu-content pb-70 col-lg-8">
                         <div class="title text-center">
-                            <h1 class="mb-10">Latest posts from our Blog</h1>
-                            <p>In the history of modern astronomy there is.</p>
+                            <h1 class="mb-10">Notícias do Curso</h1>
                         </div>
                     </div>
                 </div>					
@@ -480,24 +398,26 @@
                 </div>
             </div>	
         </section>
-        <!-- End blog Area -->			
-        
+        <!-- End blog Area -->
 
-        <!-- Start cta-two Area -->
-        <section class="cta-two-area">
+        <!-- Start cta-one Area -->
+        <section class="cta-one-area relative section-gap">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 cta-left">
-                        <h1>Not Yet Satisfied with our Trend?</h1>
-                    </div>
-                    <div class="col-lg-4 cta-right">
-                        <a class="primary-btn wh" href="#">view our blog</a>
-                    </div>
+                <div class="overlay overlay-bg"></div>
+                <div class="row justify-content-center">
+                    <div class="wrap">
+                        <h1 class="text-white">COFINANCIADO POR:</h1>
+                        
+                        <img src="https://www.uma.pt/wp-content/themes/uma/images/ctesps-financiamento/logos_financiamento_ctesp-04.png?v2" width="150" height="50" alt="" class="m-5">
+                        <img src="https://www.uma.pt/wp-content/themes/uma/images/ctesps-financiamento/logos_financiamento_ctesp-03.png?v2" width="150" height="50" alt="" class="m-5">
+                        <img src="https://www.uma.pt/wp-content/themes/uma/images/ctesps-financiamento/logos_financiamento_ctesp-05.png" width="150" height="50" alt="" class="m-5">
+                        <img src="https://www.uma.pt/wp-content/themes/uma/images/ctesps-financiamento/logos_financiamento_ctesp-06.png" width="150" height="50" alt="" class="m-5">
+                    </div>					
                 </div>
             </div>	
         </section>
-        <!-- End cta-two Area -->
-                    
+        <!-- End cta-one Area -->
+   
         <!-- start footer Area -->		
         <footer class="footer-area section-gap">
             <div class="container">
@@ -515,7 +435,7 @@
                     </div>
                     <div class="col-lg-2 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
-                            <h4>Quick links</h4>
+                            <h4>Ligações</h4>
                             <ul>
                                 <li><a href="#">Jobs</a></li>
                                 <li><a href="#">Brand Assets</a></li>
@@ -526,7 +446,7 @@
                     </div>
                     <div class="col-lg-2 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
-                            <h4>Features</h4>
+                            <h4>Serviços</h4>
                             <ul>
                                 <li><a href="#">Jobs</a></li>
                                 <li><a href="#">Brand Assets</a></li>
@@ -537,7 +457,7 @@
                     </div>
                     <div class="col-lg-2 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
-                            <h4>Resources</h4>
+                            <h4>Ensino</h4>
                             <ul>
                                 <li><a href="#">Guides</a></li>
                                 <li><a href="#">Research</a></li>
@@ -568,13 +488,11 @@
                 </div>
                 <div class="footer-bottom row align-items-center justify-content-between">
                     <p class="footer-text m-0 col-lg-6 col-md-12"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> Universidade da Madeira | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                    </p>
                     <div class="col-lg-6 col-sm-12 footer-social">
                         <a href="#"><i class="fa fa-facebook"></i></a>
                         <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-dribbble"></i></a>
-                        <a href="#"><i class="fa fa-behance"></i></a>
                     </div>
                 </div>						
             </div>
