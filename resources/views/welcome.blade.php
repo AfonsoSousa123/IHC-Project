@@ -106,7 +106,6 @@
         </section>
         <!-- End info Area -->
     
-
         <!-- Start search-course Area -->
         <section class="search-course-area relative">
             <div class="overlay overlay-bg"></div>
@@ -330,204 +329,129 @@
         <!-- End review Area -->
         
         <!-- Start course-details Area -->
-        <section class="course-details-area pt-120">
+        <section class="course-details-area pt-70">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 left-contents">
+                    <div class="col-lg-12 left-contents">
                         <div class="jq-tab-wrapper" id="horizontalTab">
                             <div class="jq-tab-menu">
-                                <div class="jq-tab-title active" data-tab="1">Objectives</div>
-                                <div class="jq-tab-title" data-tab="2">Eligibility</div>
-                                <div class="jq-tab-title" data-tab="3">Course Outline</div>
-                                <div class="jq-tab-title" data-tab="4">Comments</div>
-                                <div class="jq-tab-title" data-tab="5">Reviews</div>
+                                <div class="jq-tab-title active" data-tab="1"><h3>Plano Curricular</h3></div>
+                                <div class="jq-tab-title" data-tab="2"><h3>Locais de Estágio</h3></div>
+                                <div class="jq-tab-title" data-tab="3"><h3>Reviews</h3></div>
+                                <div class="jq-tab-title" data-tab="4"><h3>Outras Informações</h3></div>
                             </div>
                             <div class="jq-tab-content-wrapper">
-                                <div class="jq-tab-content active" data-tab="1">
-                                    When you enter into any new area of science, you almost always find yourself with a baffling new language of technical terms to learn before you can converse with the experts. This is certainly true in astronomy both in terms of terms that refer to the cosmos and terms that describe the tools of the trade, the most prevalent being the telescope.
-                                    <br>
-                                    <br>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
+                                {{-- Plano Curricular --}}
+                                <div class="jq-tab-content active p-5" data-tab="1">
+                                    <div class="row">
+                                        <div class="col-md-12 accordion-left">
+                                            <!-- accordion 2 start-->
+                                            <dl class="accordion">
+                                                <dt>
+                                                    <a href=""><h3>1º Ano</h3></a>
+                                                </dt>
+                                                <dd>
+                                                    <div class="row">
+                                                        
+                                                        <div class="col-md-4">
+                                                            <h4>Disciplinas</h4>
+                                                            <hr class="custom">
+                                                            <h5>1º Semestre</h5>
+                                                            <br>
+                                                            <a href="" class="mb-20">Matemática</a>
+                                                            <br>
+                                                            <br>
+                                                            <a href="" class="mb-20">Técnicas de Expressão do Português</a>
+                                                            <br>
+                                                            <br>
+                                                        </div>
+                                                        <div class="col-md-4">
+                                                            <h4>Area de Formação</h4>
+                                                            <hr class="custom">
+                                                            <br>
+                                                            <p class="mb-20">Matemática</p>
+                                                            <br>
+                                                            <p class="mb-20">Língua e Literatura Materna</p>
+                                                        </div>
+                                                        <div class="col-md-4">
+                                                            <h4>ECTS</h4>
+                                                            <hr class="custom">
+                                                            <br>
+                                                            <p class="mb-20">6</p>
+                                                            <br>
+                                                            <br>
+                                                            <p class="mb-20">6</p>
+                                                            <br>
+                                                            <p class="mb-20">6</p>
+                                                            <br>
+                                                        </div>
+                                                    </div>  
+                                                </dd>
+                                                <dt>
+                                                    <a href=""><h3>2º Ano</h3></a>
+                                                </dt>
+                                                <dd>
+                                                    <div class="row">
+                                                        <div class="col-md-4">
+                                                            <h4>Disciplinas</h4>
+                                                        </div>
+                                                        <div class="col-md-4">
+                                                            <h4>Area de Formação</h4>
+                                                        </div>
+                                                        <div class="col-md-4">
+                                                            <h4>ECTS</h4>
+                                                        </div>
+                                                    </div>  
+                                                </dd>
+                                                
+                                                <br>
+                                                <p>* A consulta desta informação não invalida a consulta do Plano de Curso em Diário da República.</p>
+                                            </dl>
+                                            <!-- accordion 2 end-->
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="jq-tab-content" data-tab="2">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
-                                    <br>
-                                    <br>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
-                                </div>
-                                <div class="jq-tab-content" data-tab="3">
+
+                                {{-- Locais de Estágio --}}
+                                <div class="jq-tab-content p-5" data-tab="2">
                                     <ul class="course-list">
                                         <li class="justify-content-between d-flex">
-                                            <p>Introduction Lesson</p>
-                                            <a class="primary-btn text-uppercase" href="#">View Details</a>
+                                            <h3 style="color:darkgray">ACIN</h3>
+                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
-                                            <p>Basics of HTML</p>
-                                            <a class="primary-btn text-uppercase" href="#">View Details</a>
+                                            <h3 style="color:darkgray">Altice Labs</h3>
+                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
-                                            <p>Getting Know about HTML</p>
-                                            <a class="primary-btn text-uppercase" href="#">View Details</a>
+                                            <h3 style="color:darkgray">Informar</h3>
+                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
-                                            <p>Tags and Attributes</p>
-                                            <a class="primary-btn text-uppercase" href="#">View Details</a>
+                                            <h3 style="color:darkgray">Expedita</h3>
+                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
-                                            <p>Basics of CSS</p>
-                                            <a class="primary-btn text-uppercase" href="#">View Details</a>
+                                            <h3 style="color:darkgray">MCC</h3>
+                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
-                                            <p>Getting Familiar with CSS</p>
-                                            <a class="primary-btn text-uppercase" href="#">View Details</a>
+                                            <h3 style="color:darkgray">Unipartner</h3>
+                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
-                                            <p>Introduction to Bootstrap</p>
-                                            <a class="primary-btn text-uppercase" href="#">View Details</a>
+                                            <h3 style="color:darkgray">Startup Madeira</h3>
+                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>																		
-                                        <li class="justify-content-between d-flex">
-                                            <p>Responsive Design</p>
-                                            <a class="primary-btn text-uppercase" href="#">View Details</a>
-                                        </li>
-                                        <li class="justify-content-between d-flex">
-                                            <p>Canvas in HTML 5</p>
-                                            <a class="primary-btn text-uppercase" href="#">View Details</a>
-                                        </li>
-
                                     </ul>
                                 </div>
-                                <div class="jq-tab-content comment-wrap" data-tab="4">
-                                    <div class="comments-area">
-                                        <h4>05 Comments</h4>
-                                        <div class="comment-list">
-                                            <div class="single-comment justify-content-between d-flex">
-                                                <div class="user justify-content-between d-flex">
-                                                    <div class="thumb">
-                                                        <img src="img/blog/c1.jpg" alt="">
-                                                    </div>
-                                                    <div class="desc">
-                                                        <h5><a href="#">Emilly Blunt</a></h5>
-                                                        <p class="date">December 4, 2017 at 3:12 pm </p>
-                                                        <p class="comment">
-                                                            Never say goodbye till the end comes!
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="reply-btn">
-                                                        <a href="" class="btn-reply text-uppercase">reply</a> 
-                                                </div>
-                                            </div>
-                                        </div>  
-                                        <div class="comment-list left-padding">
-                                            <div class="single-comment justify-content-between d-flex">
-                                                <div class="user justify-content-between d-flex">
-                                                    <div class="thumb">
-                                                        <img src="img/blog/c2.jpg" alt="">
-                                                    </div>
-                                                    <div class="desc">
-                                                        <h5><a href="#">Elsie Cunningham</a></h5>
-                                                        <p class="date">December 4, 2017 at 3:12 pm </p>
-                                                        <p class="comment">
-                                                            Never say goodbye till the end comes!
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="reply-btn">
-                                                        <a href="" class="btn-reply text-uppercase">reply</a> 
-                                                </div>
-                                            </div>
-                                        </div>   
-                                        <div class="comment-list">
-                                            <div class="single-comment justify-content-between d-flex">
-                                                <div class="user justify-content-between d-flex">
-                                                    <div class="thumb">
-                                                        <img src="img/blog/c4.jpg" alt="">
-                                                    </div>
-                                                    <div class="desc">
-                                                        <h5><a href="#">Maria Luna</a></h5>
-                                                        <p class="date">December 4, 2017 at 3:12 pm </p>
-                                                        <p class="comment">
-                                                            Never say goodbye till the end comes!
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="reply-btn">
-                                                        <a href="" class="btn-reply text-uppercase">reply</a> 
-                                                </div>
-                                            </div>
-                                        </div>                                                    
-                                    </div>
-                                    <div class="comment-form">
-                                        <h4>Leave a Comment</h4>
-                                        <form>
-                                            <div class="form-group form-inline">
-                                                <div class="form-group col-lg-6 col-md-12 name">
-                                                <input type="text" class="form-control" id="name" placeholder="Enter Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Name'">
-                                                </div>
-                                                <div class="form-group col-lg-6 col-md-12 email">
-                                                <input type="email" class="form-control" id="email" placeholder="Enter email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'">
-                                                </div>                                        
-                                            </div>
-                                            <div class="form-group">
-                                                <input type="text" class="form-control" id="subject" placeholder="Subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Subject'">
-                                            </div>
-                                            <div class="form-group">
-                                                <textarea class="form-control mb-10" rows="5" name="message" placeholder="Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'" required=""></textarea>
-                                            </div>
-                                            <a href="#" class="mt-40 text-uppercase genric-btn primary text-center">Post Comment</a> 
-                                        </form>
-                                    </div>     						                
-                                </div>
-                                <div class="jq-tab-content" data-tab="5">	
-                                    <div class="review-top row pt-40">
-                                        <div class="col-lg-3">
-                                            <div class="avg-review">
-                                                Average <br>
-                                                <span>5.0</span> <br>
-                                                (3 Ratings)
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-9">
-                                            <h4 class="mb-20">Provide Your Rating</h4>
-                                            <div class="d-flex flex-row reviews">
-                                                <span>Quality</span>
-                                                <div class="star">
-                                                    <i class="fa fa-star checked"></i>
-                                                    <i class="fa fa-star checked"></i>
-                                                    <i class="fa fa-star checked"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                </div>
-                                                <span>Outstanding</span>
-                                            </div>
-                                            <div class="d-flex flex-row reviews">
-                                                <span>Puncuality</span>
-                                                <div class="star">
-                                                    <i class="fa fa-star checked"></i>
-                                                    <i class="fa fa-star checked"></i>
-                                                    <i class="fa fa-star checked"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                </div>
-                                                <span>Outstanding</span>
-                                            </div>
-                                            <div class="d-flex flex-row reviews">
-                                                <span>Quality</span>
-                                                <div class="star">
-                                                    <i class="fa fa-star checked"></i>
-                                                    <i class="fa fa-star checked"></i>
-                                                    <i class="fa fa-star checked"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                </div>
-                                                <span>Outstanding</span>
-                                            </div>
-                                        </div>
-                                    </div>
+
+                                {{-- Reviews --}}
+                                <div class="jq-tab-content p-5" data-tab="3">
                                     <div class="feedeback">
-                                        <h4 class="pb-20">Your Feedback</h4>
+                                        <h4 class="pb-20">O seu feedback sobre o Curso</h4>
                                         <textarea name="feedback" class="form-control" cols="10" rows="10"></textarea>
-                                        <a href="#" class="mt-20 primary-btn text-right text-uppercase">Submit</a>
+                                        <a href="#" class="mt-20 genric-btn primary radius text-right text-uppercase">Submeter</a>
                                     </div>
                                     <div class="comments-area mb-30">
                                         <div class="comment-list">
@@ -537,14 +461,7 @@
                                                         <img src="img/blog/c1.jpg" alt="">
                                                     </div>
                                                     <div class="desc">
-                                                        <h5><a href="#">Emilly Blunt</a>
-                                                        <div class="star">
-                                                            <span class="fa fa-star checked"></span>
-                                                            <span class="fa fa-star checked"></span>
-                                                            <span class="fa fa-star checked"></span>
-                                                            <span class="fa fa-star"></span>
-                                                            <span class="fa fa-star"></span>
-                                                        </div>
+                                                        <h5><a href="#">Arminda Maria</a>
                                                         </h5>
                                                         <p class="comment">
                                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ut sed, dolorum asperiores perspiciatis provident, odit maxime doloremque aliquam.
@@ -560,14 +477,7 @@
                                                         <img src="img/blog/c2.jpg" alt="">
                                                     </div>
                                                     <div class="desc">
-                                                        <h5><a href="#">Elsie Cunningham</a>
-                                                        <div class="star">
-                                                            <span class="fa fa-star checked"></span>
-                                                            <span class="fa fa-star checked"></span>
-                                                            <span class="fa fa-star checked"></span>
-                                                            <span class="fa fa-star"></span>
-                                                            <span class="fa fa-star"></span>
-                                                        </div>
+                                                        <h5><a href="#">Ambrósio Berbequim</a>
                                                         </h5>
                                                         <p class="comment">
                                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ut sed, dolorum asperiores perspiciatis provident, odit maxime doloremque aliquam.
@@ -584,13 +494,6 @@
                                                     </div>
                                                     <div class="desc">
                                                         <h5><a href="#">Maria Luna</a>
-                                                        <div class="star">
-                                                            <span class="fa fa-star checked"></span>
-                                                            <span class="fa fa-star checked"></span>
-                                                            <span class="fa fa-star checked"></span>
-                                                            <span class="fa fa-star"></span>
-                                                            <span class="fa fa-star"></span>
-                                                        </div>
                                                         </h5>
                                                         <p class="comment">
                                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ut sed, dolorum asperiores perspiciatis provident, odit maxime doloremque aliquam.
@@ -607,13 +510,6 @@
                                                     </div>
                                                     <div class="desc">
                                                         <h5><a href="#">Maria Luna</a>
-                                                        <div class="star">
-                                                            <span class="fa fa-star checked"></span>
-                                                            <span class="fa fa-star checked"></span>
-                                                            <span class="fa fa-star checked"></span>
-                                                            <span class="fa fa-star"></span>
-                                                            <span class="fa fa-star"></span>
-                                                        </div>
                                                         </h5>
                                                         <p class="comment">
                                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ut sed, dolorum asperiores perspiciatis provident, odit maxime doloremque aliquam.
@@ -622,7 +518,34 @@
                                                 </div>
                                             </div>
                                         </div>  						                                                                      
-                                    </div>	                                	
+                                    </div>
+                                </div>
+
+                                {{-- Outras Informações --}}
+                                <div class="jq-tab-content p-5" data-tab="4">	
+                                    <ul class="course-list">
+                                        <li class="justify-content-between d-flex">
+                                            <p style="font-size:16px;">
+                                                <img src="https://www.uma.pt/wp-content/themes/uma/images/pdf_icon_black.png" width="27" height="32" alt="" class="mr-10" >
+                                                Regulamento de Avaliação da Aprendizagem dos Alunos da Universidade da Madeira
+                                            </p>
+                                            <a class="genric-btn primary radius text-uppercase" href="#">Download</a>
+                                        </li>
+                                        <li class="justify-content-between d-flex">
+                                            <p style="font-size:16px;">
+                                                <img src="https://www.uma.pt/wp-content/themes/uma/images/pdf_icon_black.png" width="27" height="32" alt="" class="mr-10" >
+                                                Alteração ao Regulamento de Avaliação da Aprendizagem dos alunos da Universidade da Madeira
+                                            </p>
+                                            <a class="genric-btn primary radius text-uppercase" href="#">Download</a>
+                                        </li>
+                                        <li class="justify-content-between d-flex">
+                                            <p style="font-size:16px;">
+                                                <img src="https://www.uma.pt/wp-content/themes/uma/images/pdf_icon_black.png" width="27" height="32" alt="" class="mr-10" >
+                                                Regulamento das Condições de Ingresso dos Cursos Técnicos Superiores Profissionais
+                                            </p>
+                                            <a class="genric-btn primary radius text-uppercase" href="#">Download</a>
+                                        </li>												
+                                    </ul>	
                                 </div>                                
                             </div>
                         </div>
