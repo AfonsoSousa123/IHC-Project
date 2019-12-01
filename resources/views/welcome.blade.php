@@ -378,12 +378,12 @@
         <!-- End blog Area -->
 
         <!-- Start cta-one Area -->
-        <section class="cta-one-area relative section-gap">
+        <section class="cta-one-area relative p-5">
             <div class="container">
                 <div class="overlay overlay-bg"></div>
                 <div class="row justify-content-center">
                     <div class="wrap">
-                        <h1 class="text-white">COFINANCIADO POR:</h1>
+                        <h1>COFINANCIADO POR:</h1>
                         
                         <img src="https://www.uma.pt/wp-content/themes/uma/images/ctesps-financiamento/logos_financiamento_ctesp-04.png?v2" width="150" height="50" alt="" class="m-5">
                         <img src="https://www.uma.pt/wp-content/themes/uma/images/ctesps-financiamento/logos_financiamento_ctesp-03.png?v2" width="150" height="50" alt="" class="m-5">
