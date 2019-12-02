@@ -37,50 +37,89 @@
         @include('layouts.header')
           
         <!-- Start info Area -->
-        <section class="info-area pt-120 pb-120" id="more">
+        <section class="info-area pt-120 pb-70" id="more">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-8 justify-content-center">
-                        <h1>TECNOLOGIAS E PROGRAMAÇÃO DE SISTEMAS DE INFORMAÇÃO</h1>
-                        <hr class="custom">
-                        <br>
-                        <p style="font-size:15px;">
-                            O técnico superior profissional em Tecnologias e Programação de Sistemas de Informação será capaz,
-                            de forma autónoma ou integrado numa equipa, de planear, implementar e proceder à manutenção de software 
-                            aplicacional orientado para o contexto web, distribuído ou móvel, bem como conceber e otimizar Sistemas de 
-                            Informação em contextos diversificados, com capacidade de adaptação às tecnologias emergentes.
-                        </p>
-                        <br>
-                        <p style="font-size:15px;">
-                            O curso está estruturado em quatro (4) semestres letivos compostos dezasseis (16) unidades curriculares. 
-                            Destas, três (3) são de formação geral e científica que correspondem a dezoito créditos ECTS, doze (12) de formação 
-                            técnica que correspondem a setenta e dois (72) créditos ECTS, e uma (1) de formação em contexto de trabalho que 
-                            corresponde a trinta créditos ECTS.
-                        </p>
+                    <div class="col-lg-6 ">
+                        <img src="https://cdn.discordapp.com/attachments/514895516648341504/650447091021250580/frederica.png" width="462" height="450" alt="" style="border-radius:20px">
                     </div>
 
-                    <div class="col-lg-4 info-area-right">
-                        <a href="/director" class="genric-btn primary radius mb-30">DIRETOR DE CURSO</a>
+                    <div class="col-lg-6">
+                        <h2>Frederica Margarida Camacho Gonçalves</h2>
+
+                        <br>
+                        <div class="single-defination">
+                            <h3>Escola Superior de Tecnologias e Gestão</h3>
+                            <hr class="custom">
+                        </div>
                         <br>
 
-                        <div class="single-defination">
-                            <h4 class="mb-10">CÓDIGO DGES:</h4>
-                            <p>1321 / T024 (INSTITUIÇÃO/CURSO)</p>
+                        <div class="single-contact-address d-flex flex-row">
+                            <div class="icon mr-10">
+                                <span class="lnr lnr-envelope" style="font-size: 33px;"></span>
+                            </div>
+                            <div class="contact-details pt-10">
+                                <h5>frederica.goncalves@staff.uma.pt</h5>
+                            </div>
                         </div>
                         <br>
-                        <div class="single-defination">
-                            <h4 class="mb-10">REGISTO DGES:</h4>
-                            <p>AEF 481 R/CR 5/2017</p>
+                        <div class="single-contact-address d-flex flex-row">
+                            <div class="icon mr-10">
+                                <span class="lnr lnr-phone-handset" style="font-size: 33px;"></span>
+                            </div>
+                            <div class="contact-details pt-10">
+                                <h5>(+351) 291 705 304 / 5304</h5>
+                            </div>
                         </div>
-                        <br>
+                    </div>
+
+                    <div class="row p-5 m-3">
+                        <h2 class="mb-40">Publicações</h2>
+                        
+                        <h5 style="color:#333333;margin-bottom:20px">
+                            - Emerging Opportunities for Ambient Intelligence in Creativity Support Tools, Frederica Gonçalves, 
+                            Eduardo Fermé, João Carlos Ferreira, Springer International Publishing AG, 2017
+                        </h5>
+                        <h5 style="color:#333333;margin-bottom:20px">
+                            - I Smell Creativity: Exploring The Effects Of Olfactory And Auditory Cues To Support Creative Writing Tasks, 
+                            Frederica Gonçalves, Diogo Cabral, Pedro Campos, Johannes Schöning,, In Proceedings of INTERACT 2017, Mumbai, India, 2017
+                        </h5>
+                        <h5 style="color:#333333;margin-bottom:20px">
+                            - Towards Activity Theory - Preliminary Report: Ambient Intelligence Applied to Smart Education, 
+                            Frederica Gonçalves, Eduardo Fermé, Ana Lúcia Martins, João Carlos Ferreira, Springer International Publishing AG, 2017, 557
+                        </h5>
+                        <h5 style="color:#333333;margin-bottom:20px">
+                            - Triggering your creativity and mental well-being while writing: CreativeWall - A novel Crowdsourcing Platform, 
+                            Frederica Gonçalves, Igor Sousa, Pedro Campos, In Proceedings of IHCI 2017, Lisbon, Portuga, 2017
+                        </h5>
+                        <h5 style="color:#333333;margin-bottom:20px">
+                            - Understanding and Evaluating the User Interface Design for Creative Writing, Frederica Gonçalves, 
+                            Pedro Campos, In Proceedings of ECCE'17, Umea, Sweden, 2017
+                        </h5>
+                        <h5 style="color:#333333;margin-bottom:20px">
+                            - What Shall I Write Next Subliminal and Supraliminal Priming as triggers for Creative Writing, 
+                            Frederica Gonçalves, Ana Caraban, Evangelos Karapanos, Pedro Campos, In Proceedings of ECCE 2017, Umea, Sweden, 2017
+                        </h5>
+                        <h5 style="color:#333333;margin-bottom:20px">
+                            - Human Work Interaction Design (HWID): Design for Challenging Work Environments, Verena Fuchsberger, Martin Murer, 
+                            Manfred Tscheligi, José Abdelnour-Nocera, Pedro Campos, Frederica Gonçalves, Barbara Rita Barricelli, Springer International Publishing, 2015
+                        </h5>
+                        <h5 style="color:#333333;margin-bottom:20px">
+                            - Understanding UI Design for Creative Writing: A Pilot Evaluation, Frederica Gonçalves, Pedro Campos, Anant Garg, INTERACT 2015 Adjunct 
+                            Proceedings: 15th IFIP TC. 13 International Conference on Human-Computer Inter, 2015
+                        </h5>
+                        <h5 style="color:#333333;margin-bottom:50px">
+                            - You're the Voice: Evaluating User Interfaces for Encouraging Underserved Youths to express themselves through Creative Writing, 
+                            Frederica Gonçalves, Pedro Campos, Julian Hanna, Simone Ashby, Proceedings of the 2015 ACM SIGCHI Conference on Creativity and Cognition, 2015, 10
+                        </h5>
+
                         <div class="single-defination">
-                            <h4 class="mb-10">DURAÇÃO DO CURSO:</h4>
-                            <p>4 SEMESTRES / 2 ANOS</p>
-                        </div>
-                        <br>
-                        <div class="single-defination">
-                            <h4 class="mb-10">NÚMERO DE VAGAS:</h4>
-                            <p>NÃO DISPONÍVEL</p>
+                            <h2>Cargos Atuais</h2>
+                            <hr class="custom">
+
+                            <h5 style="color:#333333; margin-top:30px; margin-bottom:30px;">
+                                - Diretor de Curso do CTESP em Tecnologias e Programação de Sistemas de Informação
+                            </h5>
                         </div>
                     </div>
                 </div>
