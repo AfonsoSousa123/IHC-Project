@@ -345,7 +345,6 @@
                                 <div class="jq-tab-content active p-5" data-tab="1">
                                     <div class="row">
                                         <div class="col-md-12 accordion-left">
-                                            <!-- accordion 2 start-->
                                             <dl class="accordion">
                                                 <dt>
                                                     <a href=""><h3>1º Ano</h3></a>
@@ -623,7 +622,6 @@
                                                 <br>
                                                 <p>* A consulta desta informação não invalida a consulta do Plano de Curso em Diário da República.</p>
                                             </dl>
-                                            <!-- accordion 2 end-->
                                         </div>
                                     </div>
                                 </div>
@@ -875,9 +873,5 @@
         <script src="js/owl.carousel.min.js"></script>									
         <script src="js/mail-script.js"></script>	
         <script src="js/main.js"></script>
-        
-        <script>
-            
-        </script>
     </body>
 </html>
