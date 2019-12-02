@@ -352,38 +352,152 @@
                                                 </dt>
                                                 <dd>
                                                     <div class="row">
-                                                        
                                                         <div class="col-md-4">
-                                                            <h4>Disciplinas</h4>
-                                                            <hr class="custom">
-                                                            <h5>1º Semestre</h5>
-                                                            <br>
-                                                            <a href="" class="mb-20">Matemática</a>
-                                                            <br>
-                                                            <br>
-                                                            <a href="" class="mb-20">Técnicas de Expressão do Português</a>
-                                                            <br>
-                                                            <br>
+                                                            <ul>
+                                                                <li>
+                                                                    <h4>Disciplinas</h4>
+                                                                    <hr class="custom">
+                                                                </li>
+                                                                <br>
+                                                                <li>
+                                                                    <h5>1º Semestre</h5>
+                                                                </li>
+                                                                <br>
+                                                                <li class="mb-20">
+                                                                    <a href="">Matemática</a>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <a href="">Técnicas de Expressão do Português</a>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <a href="">Introdução à Programação</a>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <a href="">Sistemas Operativos e Redes</a>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <a href="">Design Hipermédia</a>
+                                                                </li>
+                                                                <br>
+                                                                <br>
+                                                                <li>
+                                                                    <h5>2º Semestre</h5>
+                                                                </li>
+                                                                <br>
+                                                                <li class="mb-20">
+                                                                    <a href="">Programação Orientada por Objetos</a>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <a href="">Desenvolvimento Web - Back-End</a>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <a href="">Desenvolvimento Web - Front-End</a>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <a href="">Sistemas Gestores de Bases de Dados I</a>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <a href="">Inglês Técnico</a>
+                                                                </li>
+                                                            </ul>
                                                         </div>
                                                         <div class="col-md-4">
-                                                            <h4>Area de Formação</h4>
-                                                            <hr class="custom">
-                                                            <br>
-                                                            <p class="mb-20">Matemática</p>
-                                                            <br>
-                                                            <p class="mb-20">Língua e Literatura Materna</p>
+                                                            <ul>
+                                                                <li>
+                                                                    <h4>Area de Formação</h4>
+                                                                    <hr class="custom">
+                                                                </li>
+                                                                <br>
+                                                                <li>
+                                                                    <h5></h5>
+                                                                </li>
+                                                                <br>
+                                                                <li class="mt-20">
+                                                                    <p>Matemática</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p>Língua e Literatura Materna</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p>Ciências Informáticas</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p>Ciências Informáticas</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p>Ciências Informáticas</p>
+                                                                </li>
+                                                                <br>
+                                                                <br>
+                                                                <li>
+                                                                    <h5></h5>
+                                                                </li>
+                                                                <br>
+                                                                <li class="mt-20">
+                                                                    <p>Ciências Informáticas</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p>Ciências Informáticas</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p>Ciências Informáticas</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p>Ciências Informáticas</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p>Línguas e Literaturas Estrangeiras</p>
+                                                                </li>
+                                                            </ul>
                                                         </div>
                                                         <div class="col-md-4">
-                                                            <h4>ECTS</h4>
-                                                            <hr class="custom">
-                                                            <br>
-                                                            <p class="mb-20">6</p>
-                                                            <br>
-                                                            <br>
-                                                            <p class="mb-20">6</p>
-                                                            <br>
-                                                            <p class="mb-20">6</p>
-                                                            <br>
+                                                            <ul>
+                                                                <li>
+                                                                    <h4>ECTS</h4>
+                                                                    <hr class="custom">
+                                                                </li>
+                                                                <br>
+                                                                <li>
+                                                                    <h5></h5>
+                                                                </li>
+                                                                <br>
+                                                                <li class="mt-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <br>
+                                                                <br>
+                                                                <li>
+                                                                    <h5></h5>
+                                                                </li>
+                                                                <br>
+                                                                <li class="mt-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                            </ul>
                                                         </div>
                                                     </div>  
                                                 </dd>
@@ -393,13 +507,115 @@
                                                 <dd>
                                                     <div class="row">
                                                         <div class="col-md-4">
-                                                            <h4>Disciplinas</h4>
+                                                            <ul>
+                                                                <li>
+                                                                    <h4>Disciplinas</h4>
+                                                                    <hr class="custom">
+                                                                </li>
+                                                                <br>
+                                                                <li>
+                                                                    <h5>1º Semestre</h5>
+                                                                </li>
+                                                                <br>
+                                                                <li class="mb-20">
+                                                                    <a href="">Sistemas Gestores de Bases de Dados II</a>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <a href="">Arquitetura de Dispositivos</a>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <a href="">Interação Humano-Computador</a>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <a href="">Segurança Informática</a>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <a href="">Aplicações Centradas em Redes</a>
+                                                                </li>
+                                                                <br>
+                                                                <br>
+                                                                <li>
+                                                                    <h5>2º Semestre</h5>
+                                                                </li>
+                                                                <br>
+                                                                <li class="mb-20">
+                                                                    <a href="">Estágio</a>
+                                                                </li>
+                                                            </ul>
                                                         </div>
                                                         <div class="col-md-4">
-                                                            <h4>Area de Formação</h4>
+                                                            <ul>
+                                                                <li>
+                                                                    <h4>Area de Formação</h4>
+                                                                    <hr class="custom">
+                                                                </li>
+                                                                <br>
+                                                                <li>
+                                                                    <h5></h5>
+                                                                </li>
+                                                                <br>
+                                                                <li class="mt-20">
+                                                                    <p>Ciências Informáticas</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p>Ciências Informáticas</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p>Ciências Informáticas</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p>Ciências Informáticas</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p>Ciências Informáticas</p>
+                                                                </li>
+                                                                <br>
+                                                                <br>
+                                                                <li>
+                                                                    <h5></h5>
+                                                                </li>
+                                                                <br>
+                                                                <li class="mt-20">
+                                                                    <p>Ciências Informáticas</p>
+                                                                </li>
+                                                            </ul>
                                                         </div>
                                                         <div class="col-md-4">
-                                                            <h4>ECTS</h4>
+                                                            <ul>
+                                                                <li>
+                                                                    <h4>ECTS</h4>
+                                                                    <hr class="custom">
+                                                                </li>
+                                                                <br>
+                                                                <li>
+                                                                    <h5></h5>
+                                                                </li>
+                                                                <br>
+                                                                <li class="mt-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <li class="mb-20">
+                                                                    <p >6</p>
+                                                                </li>
+                                                                <br>
+                                                                <br>
+                                                                <li>
+                                                                    <h5></h5>
+                                                                </li>
+                                                                <br>
+                                                                <li class="mt-20">
+                                                                    <p >30</p>
+                                                                </li>
+                                                            </ul>
                                                         </div>
                                                     </div>  
                                                 </dd>
@@ -493,7 +709,7 @@
                                                         <img src="img/blog/c3.jpg" alt="">
                                                     </div>
                                                     <div class="desc">
-                                                        <h5><a href="#">Maria Luna</a>
+                                                        <h5><a href="#">Maria Albertina</a>
                                                         </h5>
                                                         <p class="comment">
                                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ut sed, dolorum asperiores perspiciatis provident, odit maxime doloremque aliquam.
@@ -509,7 +725,7 @@
                                                         <img src="img/blog/c4.jpg" alt="">
                                                     </div>
                                                     <div class="desc">
-                                                        <h5><a href="#">Maria Luna</a>
+                                                        <h5><a href="#">Emília Andrade</a>
                                                         </h5>
                                                         <p class="comment">
                                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ut sed, dolorum asperiores perspiciatis provident, odit maxime doloremque aliquam.
@@ -529,21 +745,21 @@
                                                 <img src="https://www.uma.pt/wp-content/themes/uma/images/pdf_icon_black.png" width="27" height="32" alt="" class="mr-10" >
                                                 Regulamento de Avaliação da Aprendizagem dos Alunos da Universidade da Madeira
                                             </p>
-                                            <a class="genric-btn primary radius text-uppercase" href="#">Download</a>
+                                            <a class="genric-btn primary radius text-uppercase" href="https://testuma.sharepoint.com/:b:/s/reitoria/EXRSdj5j0zdCrlb2lAePoBEBOhWxGDQ64Tb4uUES-b3LkA">Download<span class="lnr lnr-arrow-down ml-10"></span></a>
                                         </li>
                                         <li class="justify-content-between d-flex">
                                             <p style="font-size:16px;">
                                                 <img src="https://www.uma.pt/wp-content/themes/uma/images/pdf_icon_black.png" width="27" height="32" alt="" class="mr-10" >
                                                 Alteração ao Regulamento de Avaliação da Aprendizagem dos alunos da Universidade da Madeira
                                             </p>
-                                            <a class="genric-btn primary radius text-uppercase" href="#">Download</a>
+                                            <a class="genric-btn primary radius text-uppercase" href="https://testuma.sharepoint.com/:b:/s/reitoria/EYycDGEVIh5Ci-HJV4fGqHwBa4F-oDhAGA6ESqSXlsrQEw">Download<span class="lnr lnr-arrow-down ml-10"></span></a>
                                         </li>
                                         <li class="justify-content-between d-flex">
                                             <p style="font-size:16px;">
                                                 <img src="https://www.uma.pt/wp-content/themes/uma/images/pdf_icon_black.png" width="27" height="32" alt="" class="mr-10" >
                                                 Regulamento das Condições de Ingresso dos Cursos Técnicos Superiores Profissionais
                                             </p>
-                                            <a class="genric-btn primary radius text-uppercase" href="#">Download</a>
+                                            <a class="genric-btn primary radius text-uppercase" href="https://testuma.sharepoint.com/:b:/s/reitoria/EcEBPC0Lza5OkCNTtHeUUJYBr6ycSphfYihgfvbm7SGo6g">Download<span class="lnr lnr-arrow-down ml-10"></span></a>
                                         </li>												
                                     </ul>	
                                 </div>                                
