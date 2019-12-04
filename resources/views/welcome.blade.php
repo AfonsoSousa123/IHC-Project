@@ -765,7 +765,8 @@
                         </div>
                     </div>
                 </div>
-            </div>	
+            </div>
+            <br><br><br>	
         </section>
         <!-- End course-details Area -->
         
