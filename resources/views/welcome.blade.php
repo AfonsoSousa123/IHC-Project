@@ -769,7 +769,7 @@
         </section>
         <!-- End course-details Area -->
         
-        <!-- Start blog Area -->
+        {{-- <!-- Noticias do Curso -->
         <section class="blog-area section-gap" id="blog">
             <div class="container">
                 <div class="row d-flex justify-content-center">
@@ -835,7 +835,7 @@
                 </div>
             </div>	
         </section>
-        <!-- End blog Area -->
+        <!-- End Noticias do Curso --> --}}
 
         <!-- Sponsors Area -->
         <section class="cta-one-area relative p-5">
