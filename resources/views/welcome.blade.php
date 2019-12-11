@@ -336,7 +336,7 @@
                         <div class="jq-tab-wrapper" id="horizontalTab">
                             <div class="jq-tab-menu">
                                 <div class="jq-tab-title active" data-tab="1"><h3>Plano Curricular</h3></div>
-                                <div class="jq-tab-title" data-tab="2"><h3>Locais de Estágio</h3></div>
+                                <div class="jq-tab-title" data-tab="2"><h3>Protocolos de Estágio</h3></div>
                                 <div class="jq-tab-title" data-tab="3"><h3>Reviews</h3></div>
                                 <div class="jq-tab-title" data-tab="4"><h3>Outras Informações</h3></div>
                             </div>
@@ -626,19 +626,19 @@
                                     </div>
                                 </div>
 
-                                {{-- Locais de Estágio --}}
+                                {{-- Protocolos de Estágio --}}
                                 <div class="jq-tab-content p-5" data-tab="2">
                                     <ul class="course-list">
                                         <li class="justify-content-between d-flex">
-                                            <h3 style="color:darkgray">ACIN</h3>
+                                            <h3 style="color:darkgray">ACIN ICloud Solutions</h3>
                                             <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
-                                            <h3 style="color:darkgray">Altice Labs</h3>
+                                            <h3 style="color:darkgray">Data Rede S.A</h3>
                                             <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
-                                            <h3 style="color:darkgray">Informar</h3>
+                                            <h3 style="color:darkgray">Altice Labs - PT</h3>
                                             <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
@@ -646,15 +646,15 @@
                                             <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
-                                            <h3 style="color:darkgray">MCC</h3>
+                                            <h3 style="color:darkgray">In-Formar</h3>
                                             <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
-                                            <h3 style="color:darkgray">Unipartner</h3>
+                                            <h3 style="color:darkgray">MCComputadores, S.A</h3>
                                             <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
-                                            <h3 style="color:darkgray">Startup Madeira</h3>
+                                            <h3 style="color:darkgray">Unipartner IT Services, S.A</h3>
                                             <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
                                         </li>																		
                                     </ul>
