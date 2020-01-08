@@ -9,7 +9,7 @@
 
         <nav id="nav-menu-container" >
           <ul class="nav-menu">
-            <li class="menu-has-children"><a href="">Menu</a>
+            <li class="menu-has-children"><a href="/">Menu</a>
               <ul>
                   <li><a href="">Sobre</a></li>		
                   <li><a href="">Admissão</a></li>		

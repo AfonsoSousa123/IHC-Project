@@ -337,7 +337,7 @@
                             <div class="jq-tab-menu">
                                 <div class="jq-tab-title active" data-tab="1"><h3>Plano Curricular</h3></div>
                                 <div class="jq-tab-title" data-tab="2"><h3>Protocolos de Estágio</h3></div>
-                                <div class="jq-tab-title" data-tab="3"><h3>Reviews</h3></div>
+                                <div class="jq-tab-title" data-tab="3"><h3>Edições do Curso</h3></div>
                                 <div class="jq-tab-title" data-tab="4"><h3>Outras Informações</h3></div>
                             </div>
                             <div class="jq-tab-content-wrapper">
@@ -631,7 +631,7 @@
                                     <ul class="course-list">
                                         <li class="justify-content-between d-flex">
                                             <h3 style="color:darkgray">ACIN ICloud Solutions</h3>
-                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
+                                            <a class="genric-btn primary radius text-uppercase" href="https://www.acin.pt/">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
                                             <h3 style="color:darkgray">Data Rede S.A</h3>
@@ -660,7 +660,7 @@
                                     </ul>
                                 </div>
 
-                                {{-- Reviews --}}
+                                {{-- Edições do Curso --}}
                                 <div class="jq-tab-content p-5" data-tab="3">
                                     <div class="feedeback">
                                         <h4 class="pb-20">O seu feedback sobre o Curso</h4>
