@@ -635,27 +635,27 @@
                                         </li>
                                         <li class="justify-content-between d-flex">
                                             <h3 style="color:darkgray">Data Rede S.A</h3>
-                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
+                                            <a class="genric-btn primary radius text-uppercase" href="https://www.acin.pt/">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
                                             <h3 style="color:darkgray">Altice Labs - PT</h3>
-                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
+                                            <a class="genric-btn primary radius text-uppercase" href="https://www.alticelabs.com/pt/">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
                                             <h3 style="color:darkgray">Expedita</h3>
-                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
+                                            <a class="genric-btn primary radius text-uppercase" href="http://www.expedita.com/">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
                                             <h3 style="color:darkgray">In-Formar</h3>
-                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
+                                            <a class="genric-btn primary radius text-uppercase" href="https://www.xis-group.com/en/front-page/">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
                                             <h3 style="color:darkgray">MCComputadores, S.A</h3>
-                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
+                                            <a class="genric-btn primary radius text-uppercase" href="https://mccomputadores.pt/">Ver Detalhes</a>
                                         </li>
                                         <li class="justify-content-between d-flex">
                                             <h3 style="color:darkgray">Unipartner IT Services, S.A</h3>
-                                            <a class="genric-btn primary radius text-uppercase" href="#">Ver Detalhes</a>
+                                            <a class="genric-btn primary radius text-uppercase" href="https://www.unipartner.com/">Ver Detalhes</a>
                                         </li>																		
                                     </ul>
                                 </div>
