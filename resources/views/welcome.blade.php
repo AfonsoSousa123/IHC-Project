@@ -662,76 +662,26 @@
 
                                 {{-- Edições do Curso --}}
                                 <div class="jq-tab-content p-5" data-tab="3">
-                                    <div class="feedeback">
-                                        <h4 class="pb-20">O seu feedback sobre o Curso</h4>
-                                        <textarea name="feedback" class="form-control" cols="10" rows="10"></textarea>
-                                        <a href="#" class="mt-20 genric-btn primary radius text-right text-uppercase">Submeter</a>
-                                    </div>
-                                    <div class="comments-area mb-30">
-                                        <div class="comment-list">
-                                            <div class="single-comment single-reviews justify-content-between d-flex">
-                                                <div class="user justify-content-between d-flex">
-                                                    <div class="thumb">
-                                                        <img src="img/blog/c1.jpg" alt="">
-                                                    </div>
-                                                    <div class="desc">
-                                                        <h5><a href="#">Arminda Maria</a>
-                                                        </h5>
-                                                        <p class="comment">
-                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ut sed, dolorum asperiores perspiciatis provident, odit maxime doloremque aliquam.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>  
-                                        <div class="comment-list">
-                                            <div class="single-comment single-reviews justify-content-between d-flex">
-                                                <div class="user justify-content-between d-flex">
-                                                    <div class="thumb">
-                                                        <img src="img/blog/c2.jpg" alt="">
-                                                    </div>
-                                                    <div class="desc">
-                                                        <h5><a href="#">Ambrósio Berbequim</a>
-                                                        </h5>
-                                                        <p class="comment">
-                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ut sed, dolorum asperiores perspiciatis provident, odit maxime doloremque aliquam.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>   
-                                        <div class="comment-list">
-                                            <div class="single-comment single-reviews justify-content-between d-flex">
-                                                <div class="user justify-content-between d-flex">
-                                                    <div class="thumb">
-                                                        <img src="img/blog/c3.jpg" alt="">
-                                                    </div>
-                                                    <div class="desc">
-                                                        <h5><a href="#">Maria Albertina</a>
-                                                        </h5>
-                                                        <p class="comment">
-                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ut sed, dolorum asperiores perspiciatis provident, odit maxime doloremque aliquam.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>  
-                                        <div class="comment-list">
-                                            <div class="single-comment single-reviews justify-content-between d-flex">
-                                                <div class="user justify-content-between d-flex">
-                                                    <div class="thumb">
-                                                        <img src="img/blog/c4.jpg" alt="">
-                                                    </div>
-                                                    <div class="desc">
-                                                        <h5><a href="#">Emília Andrade</a>
-                                                        </h5>
-                                                        <p class="comment">
-                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ut sed, dolorum asperiores perspiciatis provident, odit maxime doloremque aliquam.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>  						                                                                      
+                                    <div class="row">
+                                        <div class="col-md-12 accordion-left">
+                                            <dl class="accordion">
+                                                <dt>
+                                                    <a href=""><h3>1º Edição 2017-2019</h3></a>
+                                                </dt>
+                                                <dd>
+                                                    <h4>Aluno: Alberto Berbequim</h4>
+
+                                                    <br>
+
+                                                    <h4>Local de Estágio: </h4>
+
+                                                    <br>
+
+                                                    <h4>Atualmente</h4>
+                                                </dd>
+                                                <br>
+                                            </dl>
+                                        </div>
                                     </div>
                                 </div>
 
