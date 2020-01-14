@@ -656,7 +656,7 @@
                                         <li class="justify-content-between d-flex">
                                             <h3 style="color:darkgray">Unipartner IT Services, S.A</h3>
                                             <a class="genric-btn primary radius text-uppercase" href="https://www.unipartner.com/">Ver Detalhes</a>
-                                        </li>																		
+                                        </li>
                                     </ul>
                                 </div>
 
@@ -669,15 +669,55 @@
                                                     <a href=""><h3>1º Edição 2017-2019</h3></a>
                                                 </dt>
                                                 <dd>
-                                                    <h4>Aluno: Alberto Berbequim</h4>
+                                                    <h4>Aluno: Alberto José</h4>
 
                                                     <br>
 
-                                                    <h4>Local de Estágio: </h4>
+                                                    <h4>Local de Estágio: aCin</h4>
 
                                                     <br>
 
-                                                    <h4>Atualmente</h4>
+                                                    <h4>Atualmente: Estágio Profissional aCin</h4>
+
+                                                    <br>
+                                                    <br>
+
+                                                    <h4>Aluno: Maria Alberta</h4>
+
+                                                    <br>
+
+                                                    <h4>Local de Estágio: Mcc Computadores</h4>
+
+                                                    <br>
+
+                                                    <h4>Atualmente: Mcc Computadores</h4>
+                                                </dd>
+                                                <dt>
+                                                    <a href=""><h3>2º Edição 2019-2021</h3></a>
+                                                </dt>
+                                                <dd>
+                                                    <h4>Aluno: João André</h4>
+
+                                                    <br>
+
+                                                    <h4>Local de Estágio: DataRede</h4>
+
+                                                    <br>
+
+                                                    <h4>Atualmente: aCin</h4>
+
+                                                    <br>
+                                                    <br>
+
+                                                    <h4>Aluno: Pedro João</h4>
+
+                                                    <br>
+
+                                                    <h4>Local de Estágio: Expedita</h4>
+
+                                                    <br>
+
+                                                    <h4>Atualmente: Expedita</h4>
                                                 </dd>
                                                 <br>
                                             </dl>
